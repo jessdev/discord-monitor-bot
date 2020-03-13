@@ -1,0 +1,26 @@
+{
+    "name": "discord-monitor-bot",
+    "version": "0.1.0",
+    "description": "This is a bot for monitoring discord servers",
+    "main": "bot.js",
+    "scripts": {
+        "run": "node src/bot.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jessdev/discord-monitor-bot"
+    },
+    "keywords": [
+        "discord",
+        "bot"
+    ],
+    "author": "jessdev@umich.edu",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jessdev/discord-monitor-bot"
+    },
+    "dependencies": {
+        "axios": "^0.18.1",
+        "discord.js": "^11.5.1"
+    }
+}
