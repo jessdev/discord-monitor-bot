@@ -20,7 +20,7 @@
         "url": "https://github.com/jessdev/discord-monitor-bot"
     },
     "dependencies": {
-        "axios": "^0.18.1",
+        "axios": "^0.21.1",
         "discord.js": "^11.5.1"
     }
 }
